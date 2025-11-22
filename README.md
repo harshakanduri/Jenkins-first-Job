@@ -3,7 +3,7 @@
 This repository demonstrates how I created and executed my **first complete CI/CD pipeline** using **Jenkins + GitHub + Maven**.  
 It shows how source code is automatically pulled from GitHub, built using Maven, and monitored through the Jenkins dashboard.
 
-![Jenkins Dashboard](screenshot(35).png)
+https://github.com/harshakanduri/Jenkins-first-Job/blob/main/Jenkins%20Dashboard%20Snapshots/Screenshot%20(35).png
 
 ---
 
@@ -115,6 +115,7 @@ After setup, clicking Build Now will automatically run the CI pipeline.
 * How DevOps tools connect together to automate builds
 
 This project was a big confidence boost in my DevOps journey!
+
 
 
 
