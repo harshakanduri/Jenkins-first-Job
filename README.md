@@ -5,7 +5,8 @@ It shows how source code is automatically pulled from GitHub, built using Maven,
 
 https://github.com/harshakanduri/Jenkins-first-Job/blob/main/Jenkins%20Dashboard%20Snapshots/Screenshot%20(35).png
 
----<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/920adf47-6248-494f-aa3c-76bc8f5c5d56" />
+<img width="1920" height="874" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/1f63a83e-217e-4f21-908d-1dafcbc4b2de" />
+
 
 
 ## 🚀 Project Overview
@@ -116,6 +117,7 @@ After setup, clicking Build Now will automatically run the CI pipeline.
 * How DevOps tools connect together to automate builds
 
 This project was a big confidence boost in my DevOps journey!
+
 
 
 
