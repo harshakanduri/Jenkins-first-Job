@@ -38,10 +38,15 @@ This is part of my DevOps learning journey to master CI/CD, automation, pipeline
 
 Jenkins-first-Job/
 │
+
 ├── src/ # Java source code
+
 ├── pom.xml # Maven build configuration
+
 ├── mvnw / mvnw.cmd # Maven wrapper scripts
+
 ├── Jenkins Dashboard/ # (optional) screenshots
+
 └── README.md
 
 
@@ -88,8 +93,7 @@ Inside Jenkins:
 
 * Repository URL:
 
-https://github.com/harshakanduri/Jenkins-first-Job.git
-
+ https://github.com/harshakanduri/Jenkins-first-Job
 
 * Branch: main
 
@@ -117,6 +121,7 @@ After setup, clicking Build Now will automatically run the CI pipeline.
 * How DevOps tools connect together to automate builds
 
 This project was a big confidence boost in my DevOps journey!
+
 
 
 
